@@ -1,0 +1,12 @@
+c:\users\alumno\documents\visual studio 2017\Projects\PrPrueba\wcfSolucion\bin\wcfSolucion.dll.config
+c:\users\alumno\documents\visual studio 2017\Projects\PrPrueba\wcfSolucion\bin\wcfSolucion.dll
+c:\users\alumno\documents\visual studio 2017\Projects\PrPrueba\wcfSolucion\bin\wcfSolucion.pdb
+c:\users\alumno\documents\visual studio 2017\Projects\PrPrueba\wcfSolucion\obj\Debug\wcfSolucion.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2017\Projects\PrPrueba\wcfSolucion\obj\Debug\wcfSolucion.dll
+c:\users\alumno\documents\visual studio 2017\Projects\PrPrueba\wcfSolucion\obj\Debug\wcfSolucion.pdb
+C:\Users\Alumno\Desktop\PrPrueba\wcfSolucion\bin\wcfSolucion.dll.config
+C:\Users\Alumno\Desktop\PrPrueba\wcfSolucion\bin\wcfSolucion.dll
+C:\Users\Alumno\Desktop\PrPrueba\wcfSolucion\bin\wcfSolucion.pdb
+C:\Users\Alumno\Desktop\PrPrueba\wcfSolucion\obj\Debug\wcfSolucion.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\PrPrueba\wcfSolucion\obj\Debug\wcfSolucion.dll
+C:\Users\Alumno\Desktop\PrPrueba\wcfSolucion\obj\Debug\wcfSolucion.pdb
